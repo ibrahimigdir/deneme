@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+linktr.ee	TRUE	/	FALSE	1999999999	countryCode	TR
+linktr.ee	TRUE	/	FALSE	1999999999	SameSite	Strict
+
